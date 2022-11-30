@@ -1,0 +1,4 @@
+
+'''
+docker build -t ebase_ros2_torch .
+'''
